@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.86425fd2.css",
+    "main.js": "/static/js/main.0edc40c0.js",
+    "static/media/cupIcon.png": "/static/media/cupIcon.9fd18044ad2d8526a4a3.png",
+    "static/media/Tron_pb.cjs": "/static/media/Tron_pb.47f9abd618e1f7f2dfb6.cjs",
+    "static/media/balance_contract_pb.cjs": "/static/media/balance_contract_pb.aa7472a153034a19e073.cjs",
+    "static/media/axios.cjs": "/static/media/axios.aa20eea88359390f2fbc.cjs",
+    "static/media/smart_contract_pb.cjs": "/static/media/smart_contract_pb.aaf7475ab641c27286ef.cjs",
+    "static/media/index.cjs": "/static/media/index.146b2372be4cafa3f729.cjs",
+    "static/media/asset_issue_contract_pb.cjs": "/static/media/asset_issue_contract_pb.b7f00b4652ae7696983a.cjs",
+    "static/media/exchange_contract_pb.cjs": "/static/media/exchange_contract_pb.8f528e66148e21f25638.cjs",
+    "static/media/account_contract_pb.cjs": "/static/media/account_contract_pb.65835e27dc5cf1a2cf85.cjs",
+    "static/media/witness_contract_pb.cjs": "/static/media/witness_contract_pb.2eb61ae042ed64a98d6c.cjs",
+    "static/media/storage_contract_pb.cjs": "/static/media/storage_contract_pb.fe60b6943f3d6cdaf966.cjs",
+    "static/media/proposal_contract_pb.cjs": "/static/media/proposal_contract_pb.11c5652f762d76d76b5c.cjs",
+    "static/media/tronLogo.svg": "/static/media/tronLogo.590dc01b0cbccfb1c6f63c7d46c84097.svg",
+    "static/media/refresh.svg": "/static/media/refresh.357a786b80aa575fd93422cc5d051c05.svg",
+    "index.html": "/index.html",
+    "static/media/common_pb.cjs": "/static/media/common_pb.f501a3d0c73f0afd128b.cjs",
+    "main.86425fd2.css.map": "/static/css/main.86425fd2.css.map",
+    "main.0edc40c0.js.map": "/static/js/main.0edc40c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86425fd2.css",
+    "static/js/main.0edc40c0.js"
+  ]
+}

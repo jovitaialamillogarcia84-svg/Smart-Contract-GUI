@@ -8,8 +8,8 @@
     "@testing-library/user-event": "^7.2.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
-    "tronweb": "^3.2.6"
+    "react-scripts": "^5.0.1",
+    "tronweb": "^6.1.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -33,7 +33,6 @@
     ]
   },
   "main": "index.js",
-  "devDependencies": {},
   "author": "Justinas Kairys",
   "license": "ISC",
   "description": "Experimental React, Blockchain project to provide graphical user interface for smart contracts on Tron network"
